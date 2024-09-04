@@ -1,0 +1,24 @@
+#KobePNG{
+    border: 5px solid white;
+    width: 100%;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    font-family:  "Libre Barkerville",sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+#poster{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 100px;
+    font-family:  "Libre Barkerville",sans-serif;
+    text-align: center;
+    color: white;
+
+}
